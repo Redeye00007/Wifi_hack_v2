@@ -65,7 +65,10 @@ git clone https://github.com/Redeye00007/Wifi_hack_v2
 
  ```
 ### Run Last command
+ ```console
 sudo python himelwifiv2.py -i wlan0 -K
+
+ ```
 
 ### tool unstall cmd
 ```console
