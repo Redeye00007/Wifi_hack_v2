@@ -70,7 +70,7 @@ sudo python himelwifiv2.py -i wlan0 -K
 
  ```
 
-### tool unstall cmd
+### tool uninstall cmd
 ```console
 rm -rf Wifi_hack_v2
 ```
