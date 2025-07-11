@@ -79,7 +79,7 @@ rm -rf Wifi_hack_v2
 Please note that root access is required.  
 
 
-### Hack WIfi Using Termux! (Requires Root)
+### Hack Wifi Using Termux! (Requires Root)
 
 
 # Usage
