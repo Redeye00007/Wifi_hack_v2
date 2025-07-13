@@ -50,7 +50,7 @@ termux-setup-storage
  ```
 
 #### here 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2020&background=000000&random=false&width=435&lines=Fast+command+to+run+these+tool+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2020&background=000000&random=false&width=435&lines=Fast+command+to+run+this+tool+" alt="Typing SVG" /></a>
 
 
 **Running fast command 😪?**
